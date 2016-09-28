@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo2\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo2\\launcherActivity\\build\\intermediates\\exploded-aar\\PullToRefreshDemo2\\library\\unspecified\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo2\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\android.png",
+        "source": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo2\\launcherActivity\\src\\main\\res\\drawable-xhdpi\\android.png"
+    },
+    {
+        "merged": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\launcherActivity\\build\\intermediates\\exploded-aar\\PullToRefreshDemo\\PullToRefreshLib\\unspecified\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo2\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo2\\launcherActivity\\build\\intermediates\\exploded-aar\\PullToRefreshDemo2\\library\\unspecified\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\android.png",
+        "source": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\launcherActivity\\src\\main\\res\\drawable-xhdpi\\android.png"
+    },
+    {
+        "merged": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\launcherActivity\\build\\intermediates\\exploded-aar\\PullToRefreshDemo\\PullToRefreshLib\\unspecified\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo2\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo2\\launcherActivity\\build\\intermediates\\exploded-aar\\PullToRefreshDemo2\\library\\unspecified\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\launcherActivity\\build\\intermediates\\exploded-aar\\PullToRefreshDemo\\PullToRefreshLib\\unspecified\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    }
+]

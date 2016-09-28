@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo2\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo2\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo2\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo2\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\PullToRefreshLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\PullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\PullToRefreshLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\PullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    }
+]

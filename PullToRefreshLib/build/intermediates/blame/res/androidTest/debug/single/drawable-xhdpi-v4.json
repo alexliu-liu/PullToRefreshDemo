@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\PullToRefreshLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\PullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo2\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo2\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo2\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo2\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo2\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo2\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\PullToRefreshLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\PullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\PullToRefreshLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\PullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    }
+]

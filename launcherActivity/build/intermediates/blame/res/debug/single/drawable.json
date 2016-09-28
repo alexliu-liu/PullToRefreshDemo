@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo2\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo2\\launcherActivity\\build\\intermediates\\exploded-aar\\PullToRefreshDemo2\\library\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo2\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo2\\launcherActivity\\build\\intermediates\\exploded-aar\\PullToRefreshDemo2\\library\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\launcherActivity\\build\\intermediates\\exploded-aar\\PullToRefreshDemo\\PullToRefreshLib\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\launcherActivity\\build\\intermediates\\exploded-aar\\PullToRefreshDemo\\PullToRefreshLib\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo2\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo2\\launcherActivity\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\launcherActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "D:\\Extra_Work\\useful_plugins\\PullToRefreshDemo\\launcherActivity\\src\\main\\res\\drawable\\icon.png"
+    }
+]
